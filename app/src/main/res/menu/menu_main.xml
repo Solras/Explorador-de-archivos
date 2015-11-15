@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_search"
+        android:title="menu_search"/>
+    <item
+        android:id="@+id/sdcard1"
+        android:title="Tarjeta SD"/>
+    <item
+        android:id="@+id/sdcard0"
+        android:title="Almacenamiento interno"/>
+
+</menu>
